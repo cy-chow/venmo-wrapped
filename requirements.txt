@@ -1,0 +1,7 @@
+certifi==2023.11.17
+charset-normalizer==3.0.1
+emoji==2.2.0
+idna==3.4
+requests==2.28.2
+urllib3==1.26.14
+venmo-api==0.3.1
