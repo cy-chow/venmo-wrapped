@@ -21,7 +21,7 @@ Once you have your account access token, running
 python wrapped_venmo.py -u <username>
 ```
 
-runs the user analysis for the account with username <username>. 
+runs the user analysis for the user account \<username\>. 
 Run `python wrapped_venmo.py -h` for usage information.
 
 
